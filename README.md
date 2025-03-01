@@ -76,8 +76,8 @@ Para ello, se evalúan diversos elementos de la página, incluyendo:
 Este proyecto garantiza la correcta operación del proceso de solicitud de taxi, asegurando una experiencia óptima para el usuario.
 
 <a href="https://github.com/RafaelZeCe83/qa-project-Urban-Routes-es/blob/master/Urban%20Routes.png" target="_blank">
-  <img src="https://github.com/RafaelZeCe83/qa-project-Urban-Routes-es/blob/master/Urban%20Routes.png" alt="Test example image">
-</a>
+  <img src="https://raw.githubusercontent.com/RafaelZeCe83/qa-project-Urban-Routes-es/refs/heads/master/Urban%20Routes.png" alt="Test example image">
+</a> 
 
 
 <div style="width: 100%; display: flex; justify-content: center;">
